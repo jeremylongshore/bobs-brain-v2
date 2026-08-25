@@ -33,6 +33,8 @@ is designed to consume governance contracts shipped by [`@intentsolutions/core`]
 
 ---
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5S225PTME)
+
 ## Why v2 exists (the one-paragraph version)
 
 v1 (`iam-bob-adk`) is a production-grade **Google ADK + Vertex AI Agent Engine** agent
